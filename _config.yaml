@@ -1,0 +1,19 @@
+# Configs for Information Ecology
+
+title: Information Ecology
+name: Pengjuan Zu
+url: "https://informationecology.github.io/"
+repository: "InformationEcology/informationecology.github.io"
+
+include:
+- index.hml
+
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  
+# Build Settings
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "contrast"
