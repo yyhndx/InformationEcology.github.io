@@ -12,7 +12,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-include-cache
-  
+
 # Build Settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
