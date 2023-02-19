@@ -16,7 +16,7 @@
 title: Information Ecology
 email:
 description:  Information Ecology is...  
-baseurl: https://informationecology.github.io/
+baseurl:
 twitter_username: pengjuanz
 github_username: PengjuanZu
 minimal_mistakes_skin: default
