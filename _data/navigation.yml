@@ -3,7 +3,9 @@ main:
     url: /research/
   - title: "People"
     url: /people/
-  - title: "Class"
-    url: /class/
+  - title: "Resources"
+    url: /class/  
+  - title: "Open positions"
+    url: /openpositions/
   - title: "Contact"
     url: /contact/
