@@ -3,4 +3,15 @@ permalink: /people/
 title: "People"
 ---
 
-Here is my aweseomeeeeeee team.....
+## Roberto H. Rebollo (PhD student)
+
+## Dr. Yan Yang (Postdoc)
+
+## Flurina Zahn (Bachelor student)
+
+
+-----
+Past Students
+Dominic Stalder (Master student)
+
+
