@@ -1,3 +1,2 @@
-InfoEcol.jpg
-InfoEcol.jpg
-image.png
+## Information ecology
+![Research](assets/../../assets/images/InfoEcol.jpg)
