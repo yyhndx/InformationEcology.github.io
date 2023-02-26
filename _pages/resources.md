@@ -4,6 +4,7 @@ title: "Class"
 ---
 
 ## Classes
+[Insects in Agroecosystems 2023](https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2023S&lerneinheitId=167101&lang=en)
 
 ## Workshops
 OKEE (Open Knowledge EcolEvol) Workshops
