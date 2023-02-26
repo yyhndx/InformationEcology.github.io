@@ -17,6 +17,7 @@ title: "People"
 
 -----
 Past Students
-Dominic Stalder (Master student)
+
+Dominic Stalder (Master student, 2022)
 
 
