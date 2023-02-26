@@ -4,7 +4,7 @@ title: "People"
 ---
 
 ## Dr. Pengjuan Zu (PI)
-<img src="../assets/images/PZu_2022_3.jpg" width="100" alt="Pengjuan Zu">
+<img src="../assets/images/PZu_2022_3.jpg" width="200" alt="Pengjuan Zu">
 
 
 
