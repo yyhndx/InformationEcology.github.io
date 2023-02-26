@@ -3,7 +3,7 @@ permalink: /people/
 title: "People"
 ---
 
-## Dr. Pengjuan Zu (PI)
+## Dr. Pengjuan Zu 祖鹏娟(PI)
 <img src="../assets/images/PZu_2022_3.jpg" width="200" alt="Pengjuan Zu">
 
 
