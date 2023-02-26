@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Zu Group (ETH Zurich)"
+  name   : "Information Ecology \\ Zu Group (ETH Zurich)"
   avatar : "/assets/images/infinity.png"
   bio    : "The **Information Ecology** group is interested in understanding the evolutioanry and ecological processes of the chemical communications between plants and insects by integrating concepts from biology, chemistry and information theory."
   links:
