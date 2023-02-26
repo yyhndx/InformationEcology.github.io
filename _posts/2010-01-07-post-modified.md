@@ -31,15 +31,3 @@ tags:
 2020-08-20: I am awarded an SNSF SPARK grant hosted by Dr. Carlos Melian at Swiss Federal Institute of Aquatic Science and Technology (EAWAG), Switzerland.
 
 2020-06-19: Our recent publication on Science where we showed that information arms race explains plant-herbivore chemical communication in ecological communities.
----
-title: "My First Post"
-last_modified_at: 2023-02-19T16:20:02-05:00
-categories:
-  - Blog
-tags:
-  - Post Formats
-  - readability
-  - standard
----
-
-This is my first Jekyll Post on the Information Ecology Website.
