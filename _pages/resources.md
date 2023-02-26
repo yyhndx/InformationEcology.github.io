@@ -1,6 +1,6 @@
 ---
-permalink: /class/
-title: "Class"
+permalink: /resources/
+title: "Resources"
 ---
 
 ## Classes
@@ -14,5 +14,6 @@ OKEE (Open Knowledge EcolEvol) Workshops
 | 2023-01-04 | Phylogenetic methods in R (part I)| Dr. Orlando Schwery |       tba |
 | 2023-02-20 | Phylogenetic methods in R (Part II) | Dr. Orlando Schwery | tba |
 
+## Talks and posters
 
 ## Other resources
