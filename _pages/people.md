@@ -4,7 +4,9 @@ title: "People"
 ---
 
 ## Dr. Pengjuan Zu (PI)
-![PengjuanZu](img src="../assets/images/PZu_2022_3.jpg" width="100")
+<img src="../assets/images/PZu_2022_3.jpg" width="100" alt="Pengjuan Zu">
+
+
 
 ## Roberto H. Rebollo (PhD student)
 
