@@ -11,7 +11,7 @@ title: "People"
 ## Roberto H. Rebollo (PhD student)
 
 ## Dr. Yan Yang (Postdoc)
-
+<img src="../assets/images/Yan Yang.jpg" width="200" alt="Yan Yang">
 ## Flurina Zahn (Bachelor student)
 
 
